@@ -1,6 +1,6 @@
 # Spotify Accounts Creator
 
-Generate New Spotify Account's using this Tool
+Generate New Spotify Accounts using this Tool
 #
  - Coded by: Revan AR
  - Facebook: https://www.facebook.com/revan.ar.me

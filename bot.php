@@ -36,9 +36,9 @@ $banner = "\e[36;1m
                                                                                  
 [#] Spotify Accounts Creator [#]    
                                    
-Author : Revan AR                  
+Author : Amzah S                  
 Team   : IndoSec x Cilacap Security Cyber Team          
-Github : https//github.com/revan-ar/\n\n\e[0;1m";
+Github : https//github.com/LulNazi666/\n\n\e[0;1m";
                                                                                  
                                                                                                                                                                  
 sleep(3);
